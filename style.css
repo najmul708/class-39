@@ -1,0 +1,97 @@
+.menu{
+	background: #f5deb3;
+}
+.im img{
+	height: 60px;
+}
+.men ul {
+	line-height:60px;
+	height: 46px;
+}
+.men ul li {
+	display: inline-block;
+	border-right: 1px solid #fff;
+	padding: 0px 20px;
+	margin-left: -4px;
+	transition: .4s;
+	
+}
+.men ul li a{
+	display: inline-block;
+	text-decoration: none;
+	font-size: 19px;
+	color: #fff;
+
+}
+.men ul li:hover{
+	background: #f5d496;
+}
+/* bannar */
+.b{
+	background: url(./img/intro-bg.jpg) no-repeat center;
+	background-size:cover;
+    text-align: center;
+}
+.b h3{
+	padding-top: 200px;
+	color: #3397d9;
+}
+.b h2{
+	padding-bottom: 200px;
+	color: #3397d9;
+}
+/* service */
+.container1{
+	max-width: 1200px;
+	margin: auto;
+}
+.m img {
+	height: 260px;
+	margin-right: 60px;
+}
+.s p{
+	line-height: 28px;
+	font-weight: 400;
+}
+/* plan */
+.q{
+	background: #fffaf0;
+	padding: 50px ;
+}
+.p {
+	padding: 35px;
+	text-align: center;
+	border: 2px dotted #cfcfcf;
+	border-radius: 50px 0px;
+}
+.p i{
+	padding: 10px;
+	font-size: 40px;
+	color: #3498db;
+	border: 2px solid #3498db;
+	border-radius: 20px 0px;
+}
+.p p{
+	font-weight: 600;
+	
+}
+/* footer */
+.t{
+	background: #2c3e50;
+}
+.k{}
+.k ul{
+	text-align: right;
+}
+.k ul li{
+	display: inline-block;
+	margin: 9px 10px;
+
+
+}
+.k ul li a{
+	display: inline-block;
+	text-decoration: none;
+	
+	color: #fffaf0;
+}
