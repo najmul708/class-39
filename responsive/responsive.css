@@ -100,14 +100,20 @@
         
     }
 }
-@media(max-width:410px){
+@media(max-width:354px){
     .men ul li a {
-        font-size: 8px;
+        font-size: 10px;
     }
     .b h3 {
         padding-top: 90px;
     }
     .b h2 {
         padding-bottom: 90px;
+    }
+    .im img {
+        height: 35px;
+    }
+    .men ul li {
+        padding: 0px 8px;
     }
 }
