@@ -100,3 +100,14 @@
         
     }
 }
+@media(max-width:410px){
+    .men ul li a {
+        font-size: 8px;
+    }
+    .b h3 {
+        padding-top: 90px;
+    }
+    .b h2 {
+        padding-bottom: 90px;
+    }
+}
